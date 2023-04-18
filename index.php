@@ -481,7 +481,7 @@
 
 </body>
 <script>
-    // let = prompt("Welcome to my website", "guest");
+    let = prompt("Welcome to my website", "guest");
 </script>
 
 </html>
